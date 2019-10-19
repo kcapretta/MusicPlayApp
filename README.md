@@ -1,3 +1,5 @@
-# MusicPlay Application - Play your music by genre on shuffle
+# MusicPlay Application
 
-Using Xcode in Swift
+Play music from your phone by genre on your phone. 
+
+Using Xcode
