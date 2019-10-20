@@ -11,6 +11,7 @@ First, I designed the Main Storyboard as follows:
 - Designing three buttons for the different genres of music
 - Creating a button for Stop 
 - Creating a button for Next
-After designing these buttons, I added the constraints. These constraints included configuring the width and height of the three genre buttons and then setting Stop and Next to balance within these constraints.
+- Filling in colors and using desired text
+- Adding the constraints: including configuring the width and height of the three genre buttons and then setting Stop and Next to balance within these constraints
 
-After importing MediaPlayer, I made the buttons interactive with the interface and added the de
+After importing the MediaPlayer, which accesses the music from your phone, I made the buttons interactive with the interface specifically on the ButtonScreen.swift page.
