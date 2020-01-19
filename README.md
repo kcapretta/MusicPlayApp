@@ -6,7 +6,7 @@ Using Xcode, I created this application that takes music from your phone's libra
 
 # Steps Taken
 
-First, I designed the Main Storyboard as follows:
+The Storyboard is as follows:
 
 - Designing three buttons for the different genres of music
 - Creating a button for Stop 
